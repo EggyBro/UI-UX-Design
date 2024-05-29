@@ -1,0 +1,19 @@
+Premise:
+The objective of this project was to create a shop menu for a game developed for the SNES platform.
+The constraints were that we needed four item categories and different classes, as well as shop
+items which were locked to each specific class.
+
+Execution:
+The initial planning phase was done on Figma using temporary assets given to us. The prototype can
+be seen in the TDP PT2 document. 
+
+From there, the final product was developed in unity as can be seen in the TDP PT3 document and file.
+
+Reflections:
+The constraint of this project was that we were developing a shop with keybinds for a specific
+console controller. If I were to improve on it with considerations to the existing constraints,
+I would have implemented the feedback given by the playtest report.
+
+I would also have provided more feedback for every action taken. Things like sound cues for 
+selecting and purchasing or selling items and animated feedback showing the amount being subtracted 
+from the player's wallet.

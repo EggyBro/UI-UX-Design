@@ -1,0 +1,25 @@
+Premise:
+This project was one of the first UI/UX design projects I undertook.
+The prototype was built in AdobeXD. 
+
+Execution:
+As per the assignment brief, the first stage of the project was doing research
+into a problem that needed to be solved. At the time the SGBuses app had not been
+integrated with SMRT services so having an app that would integrate both bus and 
+train services made sense. 
+
+Once the app idea was firmed up, I then moved to market research by creating a user
+persona as well as conducting market analysis.
+
+Reflections:
+Currently, there are multiple apps created by both third parties and by the 
+transport authorities which sport the features that this app proposal had. Even going
+further to add more features such as remote top-up of ez-link cards and so on. In that
+sense this app happened to be slightly ahead of the curve. However, while the core
+concept was sound, it definitely lacked sufficient market analysis as I only conducted
+research into a very narrow user band. 
+
+These days, almost everyone uses mobile apps from children to the elderly. On top of
+that, almost everyone also uses public transportation. As such if I were to 
+improve on this project, I would do so by considering a wider context and conducting 
+more comprehensive market research and considering more user personas.

@@ -1,0 +1,21 @@
+Premise:
+This group project was a VR game development assignment where we were asked to create an immersive
+Virtual Reality game.
+
+Execution:
+During the planning phase, it was made clear to us that the key grading factor was immersion.
+For that reason, I pushed for the app to have minimal use of heads up display elements. The challenge
+then became the question of how to guide players without the use of a heads up display or non-organic
+prompts.
+
+The method I chose was through the implementation of an audio tutorial which would guide users and 
+provide feedback for their actions. This served as their primary source of feedback aside from the 
+other floating elements such as the text guide and the scoreboard.
+
+The placement of the guides was decided such that they were easy to view but would not obstruct the 
+player's immersion once they began playing.
+
+Reflections:
+The placement of the floating elements could be better implemented such as the guide and the scoreboard
+to be more conducive for immersion. One way to go about it would be to place them on signboards as
+a part of the level itself rather than just floating beside the player.

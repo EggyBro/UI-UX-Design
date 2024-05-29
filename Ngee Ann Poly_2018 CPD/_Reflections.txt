@@ -1,0 +1,28 @@
+Premise:
+The CPD group project was a trimseter long assignment where we had to ideate, plan and develop
+an application for use by the youth of Singapore. 
+
+Execution:
+Initially, our application had a significantly larger scope, aiming to use cameras and AI to
+detect crowd sizes so that we would be able to help users decide which food court would be 
+the best to go to for their meals. Unfortunately the plan fell through as we were unable to
+secure the funding necessary for the cameras and we were also unable to get the API for the 
+crowd detection AI. In the end we had to scope down to what was essentially a food ordering app.
+
+The production bible details the process of development fairly comprehensively in this case
+we did have the foresight to also account for faculty and staff members who might also have
+a reason to use the app as they are also likely going to eat at school canteens.
+
+Partway through development we also reworked the colour scheme of the UI.
+
+Reflections:
+Looking back at the design of the app, its appearance and visuals are definitely dated. The
+overall layout of the buttons, the choice of colours and the user flow are all quite flawed.
+On top of that, the registration and login page requires the user to key in information which
+by all rights is quite unnecessary for the app's function.
+
+The home screen also lacks a true call to action and the relevant information which we wish
+to provide users with is also not readily available without navigating through several steps.
+
+For that reason, significant improvements can definitely be made to the app to make it more user
+friendly and intuitive as well as more accessible for any user, not limited to students or staff.

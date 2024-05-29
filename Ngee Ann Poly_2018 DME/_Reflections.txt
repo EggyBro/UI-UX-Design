@@ -1,0 +1,24 @@
+Premise:
+This group project was a mobile development assignment which required us to build an app to
+promote tourism in Singapore. Because Pokemon GO was quite popular at the time, we decided to
+make something similar to it but users would collect 3d models of tourist attractions instead.
+
+Execution:
+For this project, I was mainly involved in the planning phase and the making of 3d models for
+use in the app. The market research we conducted was cursory and we only accounted for the
+official government released Singapore Travel Guide App. We had also planned for the app to
+be scalable to include other countries in the future should further collaboration be done.
+
+Reflections:
+This project was beset by time constraints as it was assigned during the second half of the
+semester, in between two other major group projects. because of this, a lot of the planning,
+research and implementation was truncated.
+
+If I were to improve on this app, the first thing I would do is consider expanding the competitor
+analysis to include other travel apps as well as travel blogs and hotel booking sites.
+
+In the current day and age, having an app that only does one thing is not very desirable so the
+app in its finalised state would be completely outdated. Another point of note is that while
+this app was made to fill a requirement, it does not solve any problem in parrticular when it
+comes to travelling and tourism within Singapore. In that sense, having an app that actually
+solves an existing problem would make it significantly more marketable.

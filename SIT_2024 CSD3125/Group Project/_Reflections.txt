@@ -1,0 +1,23 @@
+Premise:
+For this group project, we were tasked with planning and developing a mobile app which was capable
+of scheduling events and ordering items for a judo CCA. The app would be used by students, staff
+members of the school, and children of the staff members.
+
+Execution:
+The assignment report details our planning and development phase fairly well, documenting our user
+analysis as well as task and domain analyses. We used google slides to create our low fidelity
+prototype as we were operating on some rather tight time constraints at the time. 
+
+For our final implementation in figma, we were also limited by time and as such had to refer to
+a template for developing our application.
+
+Reflections:
+Our development was quite rushed and as such, some features did not get smoothed out as well as
+we would have liked. For example, signing in to the app could be better done using biometric login.
+
+Additionally, the main menu does lack a call to action. An improvement to implement would be to
+have the book session button be highlighted when the user first logs in. This would help guide 
+them in the direction of what they should do as a first time user. 
+
+Another improvement to make would be a set of highlights on the calendar to better show users
+which days have available training slots that they can book.
